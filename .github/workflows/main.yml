@@ -1,9 +1,6 @@
 name: Waka Readme
 
 on:
-  push:
-    branches: 
-      - master
   schedule:
     # Runs Daily at midnight
     - cron: '0 0 * * *'

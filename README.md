@@ -15,13 +15,14 @@
 
 - 📝 I regulary write articles on [https://tylercampbell.space/blog/](https://tylercampbell.space/blog/)
 
-- 📫 How to reach me **https://tylercampbell.space/contact/**
+- 📫 How to reach me [https://tylercampbell.space/contact/](https://tylercampbell.space/contact/)
 
 - ⚡ Fun fact **I was in the U.S. Air Force for 4 years working as an Aircraft Maintainer on the C-130J**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t36campbell&show_icons=true" alt="t36campbell" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t36campbell&layout=compact&hide=html" alt="t36campbell" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=t36campbell&show_icons=true" alt="t36campbell" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t36campbell&layout=compact&hide=html" alt="t36campbell" /></p>
 
+<div>
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
@@ -59,7 +60,7 @@ Dart                     1 repos             ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
+</div>
 
 
 
