@@ -23,9 +23,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t36campbell&layout=compact&hide=html" alt="t36campbell" /></p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.5%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
