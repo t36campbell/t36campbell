@@ -20,7 +20,6 @@
 - ⚡ Fun fact **I was in the U.S. Air Force for 4 years working as an Aircraft Maintainer on the C-130J**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t36campbell&show_icons=true" alt="t36campbell" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t36campbell&layout=compact&hide=html" alt="t36campbell" /></p>
 
 <!--START_SECTION:waka-->
 
