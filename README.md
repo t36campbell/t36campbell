@@ -16,8 +16,6 @@
 
 - 📫 How to reach me [https://tylercampbell.space/contact/](https://tylercampbell.space/contact/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t36campbell&show_icons=true" alt="t36campbell" /></p>
-
 <!--START_SECTION:waka-->
 
 📊 **This Week I Spent My Time On** 
@@ -53,5 +51,5 @@ Dart                     1 repos             ██░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t36campbell&show_icons=true" alt="t36campbell" /></p>
 
