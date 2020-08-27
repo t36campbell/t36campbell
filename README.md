@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm TYLER S CAMPBELL</h1>
+<h1 align="center">Hi 👋, I'm Tyler S Campbell</h1>
 <h3 align="center">A JavaScript Front-End Developer from Cleveland, OH</h3>
-
 <p align="center">
 <a href="https://linkedin.com/in/tyler-campbell36" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tyler-campbell36" height="30" width="30" /></a>
 </p>
@@ -16,8 +15,6 @@
 - 📝 I regulary write articles on [https://tylercampbell.space/blog/](https://tylercampbell.space/blog/)
 
 - 📫 How to reach me [https://tylercampbell.space/contact/](https://tylercampbell.space/contact/)
-
-- ⚡ Fun fact **I was in the U.S. Air Force for 4 years working as an Aircraft Maintainer on the C-130J**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t36campbell&show_icons=true" alt="t36campbell" /></p>
 
