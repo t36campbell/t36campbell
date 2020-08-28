@@ -17,7 +17,6 @@
 - 📫 How to reach me [https://tylercampbell.space/contact/](https://tylercampbell.space/contact/)
 
 <!--START_SECTION:waka-->
-
 📊 **This Week I Spent My Time On** 
 
 ```text
