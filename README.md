@@ -8,8 +8,6 @@
 
 - 🌱 I’m continuing to learn **Angular, React & Vue**
 
-- 👯 I’m looking to collaborate on [vue2-google-maps](https://github.com/Jeson-gk/vue2-google-maps)
-
 - 👨‍💻 All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
 
 - 📝 I regulary write articles on [https://tylercampbell.space/blog/](https://tylercampbell.space/blog/)
