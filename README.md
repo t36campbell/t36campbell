@@ -47,5 +47,6 @@ Dart                     1 repos             ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-.. image:: https://wakatime.com/share/@738aac7f-8868-4bc3-a1df-4c36703ee4b6/ede69fbd-ddd5-4d4a-aa23-e5e953b6044e.png
-    :target: https://wakatime.com/
+<p align="center">&nbsp;<img align="center" alt="wakatime chart"
+src="https://wakatime.com/share/@738aac7f-8868-4bc3-a1df-4c36703ee4b6/ede69fbd-ddd5-4d4a-aa23-e5e953b6044e.png"/></p>
+
