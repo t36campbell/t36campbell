@@ -34,19 +34,8 @@ Unknown Project          6 mins              ░░░░░░░░░░░�
 
 ```
 
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               6 repos             █████████████░░░░░░░░░░░░   54.55% 
-Vue                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Dart                     1 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
-
-```
-
-
-
 <!--END_SECTION:waka-->
+**Languages All Time** 
 <p align="center">&nbsp;<img align="center" alt="wakatime chart"
 src="https://wakatime.com/share/@738aac7f-8868-4bc3-a1df-4c36703ee4b6/ffb1a4eb-0234-4a6d-8897-da182b371844.png"/></p>
 
