@@ -4,15 +4,15 @@
 <a href="https://linkedin.com/in/tyler-campbell36" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tyler-campbell36" height="30" width="30" /></a>
 </p>
 
-- 🔭 I’m currently working on [gatsby-portfolio](https://github.com/t36campbell/gatsby-portfolio)
+- I’m currently working on [gatsby-portfolio](https://github.com/t36campbell/gatsby-portfolio)
 
-- 🌱 I’m continuing to learn **Angular, React & Vue**
+- I’m continuing to learn **Angular, React & Vue**
 
-- 👨‍💻 All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
+- All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
 
-- 📝 I regulary write articles on [https://tylercampbell.space/blog/](https://tylercampbell.space/blog/)
+- I regulary write articles on [https://tylercampbell.space/blog/](https://tylercampbell.space/blog/)
 
-- 📫 How to reach me [https://tylercampbell.space/contact/](https://tylercampbell.space/contact/)
+- How to reach me [https://tylercampbell.space/contact/](https://tylercampbell.space/contact/)
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
@@ -47,6 +47,6 @@ Dart                     1 repos             ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t36campbell&show_icons=true" alt="t36campbell" /></p>
+<p align="center">&nbsp;<img align="center" alt="wakatime chart"
+src="https://wakatime.com/share/@738aac7f-8868-4bc3-a1df-4c36703ee4b6/54fa2a91-72bb-446a-a124-cb2c4aa8c1ee.png"/></p>
 
