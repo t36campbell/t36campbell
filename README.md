@@ -19,10 +19,10 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 12 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+gatsby-portfolio         1 hr 12 mins        █████████████████████████   100.0%
 
 ```
 
