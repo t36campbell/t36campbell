@@ -1,9 +1,12 @@
 name: Waka Readme
 
 on:
+  push:
+    branches:
+      - master
   schedule:
-    # Runs Daily at midnight
-    - cron: '0 0 * * *'
+    # Runs Daily at 1am (wakatime is updated at midnight)
+    - cron: '0 1 * * *'
 
 jobs:
   update-readme:
