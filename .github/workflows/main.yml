@@ -5,8 +5,8 @@ on:
     branches:
       - master
   schedule:
-    # Runs Daily at 1am (wakatime is updated at midnight)
-    - cron: '0 1 * * *'
+    # Runs Daily at 10am GMT - 6am EST (github on GMT)
+    - cron: '0 10 * * *'
 
 jobs:
   update-readme:
