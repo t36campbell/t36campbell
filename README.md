@@ -1,7 +1,11 @@
-<h1 align="center">Tyler S Campbell</h1>
-<h3 align="center">JavaScript Front-End Developer</h3>
 <p align="center">
 <a href="https://linkedin.com/in/tyler-campbell36" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tyler-campbell36" height="30" width="30" /></a>
+</p>
+<h1 align="center">Tyler S Campbell</h1>
+<h3 align="center">JavaScript Front-End Developer</h3>
+
+<p>
+Honorably discharged United States Air Force veteran with a B.Sc. in Information Technology specializing in Web Application Development. Quick study, eager to cultivate the skills needed to become an elite developer. 
 </p>
 
 - I’m currently working on [gatsby-portfolio](https://github.com/t36campbell/gatsby-portfolio)
