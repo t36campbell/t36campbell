@@ -19,10 +19,10 @@ Honorably discharged United States Air Force veteran with a B.Sc. in Information
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-gatsby-portfolio         2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
