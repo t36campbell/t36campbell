@@ -5,7 +5,14 @@
 <h3 align="center">Full Stack Software Engineer</h3>
 
 * United States Air Force veteran with a B.Sc. in Information Technology specializing in Web Application Development. 
+
 * Quick study, eager to cultivate the skills needed to become an elite developer.
+
+* I’m currently working on [gatsby-portfolio](https://github.com/t36campbell/gatsby-portfolio)
+
+* I’m continuing to learn **Angular, React & Vue**
+
+* All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
 
 Every day I wake up with expectation that I will be better than I was the day before. I view every mistake as a learning opportunity and see room to improve with every triumph.
 
@@ -15,21 +22,20 @@ While perseverance and a thirst for knowledge are among my strengths; problem so
 
 I think that I have just started to hit my stride, now I am looking for an opportunity to prove myself.
 
-- I’m currently working on [gatsby-portfolio](https://github.com/t36campbell/gatsby-portfolio)
-
-- I’m continuing to learn **Angular, React & Vue**
-
-- All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
-
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 12 mins             ████████████████████░░░░░   82.15% 
+JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   8.28% 
+JavaScript               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   8.19% 
+Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.38%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+gatsby-portfolio         13 mins             █████████████████████░░░░   84.11% 
+vue-gallery              2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.83% 
+vue-gmaps                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06%
 
 ```
 
