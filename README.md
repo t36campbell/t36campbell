@@ -2,11 +2,18 @@
 <a href="https://linkedin.com/in/tyler-campbell36" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tyler-campbell36" height="30" width="30" /></a>
 </p>
 <h1 align="center">Tyler S Campbell</h1>
-<h3 align="center">JavaScript Front-End Developer</h3>
+<h3 align="center">Full Stack Software Engineer</h3>
 
-<p>
-Honorably discharged United States Air Force veteran with a B.Sc. in Information Technology specializing in Web Application Development. Quick study, eager to cultivate the skills needed to become an elite developer. 
-</p>
+* United States Air Force veteran with a B.Sc. in Information Technology specializing in Web Application Development. 
+* Quick study, eager to cultivate the skills needed to become an elite developer.
+
+Every day I wake up with expectation that I will be better than I was the day before. I view every mistake as a learning opportunity and see room to improve with every triumph.
+
+This mindset has served me well in many aspects of my life and the applications I create are no exception. The high standards that I hold myself to show through in the polish of the finished products.
+
+While perseverance and a thirst for knowledge are among my strengths; problem solving and my ability to quickly grasp complex concepts is what sets me apart from my peers.
+
+I think that I have just started to hit my stride, now I am looking for an opportunity to prove myself.
 
 - I’m currently working on [gatsby-portfolio](https://github.com/t36campbell/gatsby-portfolio)
 
