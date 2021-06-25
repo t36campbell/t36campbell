@@ -14,14 +14,6 @@
 
 * All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
 
-Every day I wake up with expectation that I will be better than I was the day before. I view every mistake as a learning opportunity and see room to improve with every triumph.
-
-This mindset has served me well in many aspects of my life and the applications I create are no exception. The high standards that I hold myself to show through in the polish of the finished products.
-
-While perseverance and a thirst for knowledge are among my strengths; problem solving and my ability to quickly grasp complex concepts is what sets me apart from my peers.
-
-I think that I have just started to hit my stride, now I am looking for an opportunity to prove myself.
-
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
@@ -44,7 +36,3 @@ Unknown Project          2 mins              ░░░░░░░░░░░�
 
  Last Updated on 25/06/2021
 <!--END_SECTION:waka-->
-**Languages All Time** 
-<p align="center">&nbsp;<img align="center" alt="wakatime chart"
-src="https://wakatime.com/share/@738aac7f-8868-4bc3-a1df-4c36703ee4b6/f86255e0-cf1e-483e-9ae4-5c0fdb9a56f8.png"/></p>
-
