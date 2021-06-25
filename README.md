@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://linkedin.com/in/tyler-campbell36" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tyler-campbell36" height="30" width="30" /></a>
+<a style="color:#0A66C2" href="https://linkedin.com/in/tyler-campbell36" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tyler-campbell36" height="30" width="30" /></a>
 </p>
 <h1 align="center">Tyler S Campbell</h1>
 <h3 align="center">Full Stack Software Engineer</h3>
