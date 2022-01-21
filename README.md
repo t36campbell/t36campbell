@@ -38,5 +38,3 @@ Unknown Project          2 mins              ░░░░░░░░░░░�
 
  Last Updated on 21/01/2022 17:40:59 UTC
 <!--END_SECTION:waka-->
-
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=t36campbell)](https://github.com/LordDashMe/github-contribution-stats/)
