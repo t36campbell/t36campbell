@@ -8,9 +8,9 @@
 
 * Quick study, eager to cultivate the skills needed to become an elite developer.
 
-* I’m currently working on [gatsby-portfolio](https://github.com/t36campbell/gatsby-portfolio)
+* I’m currently working on [periodic-table-api](https://github.com/t36campbell/periodic-table-api)
 
-* I’m continuing to learn **Angular, React & Vue**
+* I’m experimenting with **Nest, Next and Nuxt**
 
 * All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
 
@@ -36,5 +36,5 @@ Unknown Project          2 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 21/01/2022 17:59:46 UTC
+ Last Updated on 21/01/2022 17:57:56 UTC
 <!--END_SECTION:waka-->
