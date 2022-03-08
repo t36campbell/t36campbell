@@ -15,7 +15,7 @@
 * All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C483%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C483%20hrs%2017%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -34,5 +34,5 @@ gatsby-portfolio         9 hrs 9 mins        ███████░░░░�
 ```
 
 
- Last Updated on 08/03/2022 16:50:32 UTC
+ Last Updated on 08/03/2022 16:52:16 UTC
 <!--END_SECTION:waka-->
