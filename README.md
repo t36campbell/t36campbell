@@ -15,7 +15,7 @@
 * All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C512%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C512%20hrs%209%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -34,5 +34,5 @@ mcsteen-backend          7 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 21/03/2022 15:51:18 UTC
+ Last Updated on 21/03/2022 15:53:23 UTC
 <!--END_SECTION:waka-->
