@@ -15,7 +15,7 @@
 * All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C539%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C539%20hrs%206%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -35,5 +35,5 @@ mcsteen-random-order     54 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 01/04/2022 17:44:57 UTC
+ Last Updated on 01/04/2022 17:46:32 UTC
 <!--END_SECTION:waka-->
