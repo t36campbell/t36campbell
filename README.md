@@ -15,22 +15,22 @@
 * All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C626%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C624%20hrs%2055%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 10 mins       ████████████████████░░░░░   81.42% 
-HTML                     1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.25% 
-SCSS                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16% 
+TypeScript               5 hrs 10 mins       ████████████████████░░░░░   80.45% 
+HTML                     1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.23% 
+SCSS                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15% 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
 
 🐱‍💻 Projects: 
-mcsteen-frontend         6 hrs 21 mins       █████████████████████████   100.0%
+mcsteen-frontend         6 hrs 25 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 13/05/2022 04:01:25 UTC
+ Last Updated on 13/05/2022 04:02:56 UTC
 <!--END_SECTION:waka-->
