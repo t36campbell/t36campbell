@@ -15,7 +15,7 @@
 * All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C633%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C633%20hrs%2030%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -34,5 +34,5 @@ mcsteen-notion-merge     1 min               ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 24/05/2022 15:49:35 UTC
+ Last Updated on 24/05/2022 15:51:32 UTC
 <!--END_SECTION:waka-->
