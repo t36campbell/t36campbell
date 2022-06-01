@@ -21,15 +21,13 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 11 mins       ███████████████████████░░   91.65% 
-HTML                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.18% 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mcsteen-frontend         3 hrs 28 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 01/06/2022 04:00:40 UTC
+ Last Updated on 01/06/2022 04:02:22 UTC
 <!--END_SECTION:waka-->
