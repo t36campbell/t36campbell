@@ -15,7 +15,7 @@
 * All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C690%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C690%20hrs%2013%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,5 +37,5 @@ Freenove_4WD_Smart_Car_Ki7 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 05/07/2022 20:04:01 UTC
+ Last Updated on 05/07/2022 20:05:58 UTC
 <!--END_SECTION:waka-->
