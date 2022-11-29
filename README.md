@@ -15,25 +15,8 @@
 * All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C013%20hrs%2027%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     3 hrs 27 mins       █████████████░░░░░░░░░░░░   55.19% 
-TypeScript               1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   22.45% 
-Other                    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.45% 
-Python                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.38% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
-
-🐱‍💻 Projects: 
-othello-ai               3 hrs 27 mins       █████████████░░░░░░░░░░░░   55.2% 
-deliverable              1 hr 58 mins        ███████░░░░░░░░░░░░░░░░░░   31.49% 
-ps-dev                   49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.31%
-
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C012%20hrs%2024%20mins-blue)
 
 
- Last Updated on 28/11/2022 22:17:24 UTC
+ Last Updated on 29/11/2022 10:21:58 UTC
 <!--END_SECTION:waka-->
