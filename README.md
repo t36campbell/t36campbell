@@ -15,7 +15,7 @@
 * All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C060%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C060%20hrs%2056%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -36,5 +36,5 @@ visa_pytos2_fqdn_to_ip   0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 29/12/2022 14:40:02 UTC
+ Last Updated on 29/12/2022 14:41:38 UTC
 <!--END_SECTION:waka-->
