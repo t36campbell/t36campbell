@@ -15,8 +15,27 @@
 * All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time--blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C073%20hrs%2058%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+YAML                     2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.76% 
+Python                   2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.8% 
+TypeScript               1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.04% 
+TOML                     1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.51% 
+Markdown                 1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.41%
+
+🐱‍💻 Projects: 
+discover-bc-sw           7 hrs 8 mins        ██████████████░░░░░░░░░░░   58.47% 
+gatsby-portfolio         3 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   28.94% 
+ansible-playbooks        1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.57% 
+update-designer          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23% 
+trigger-solutions        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
+
+```
 
 
- Last Updated on 05/01/2023 17:55:38 UTC
+ Last Updated on 05/01/2023 17:57:27 UTC
 <!--END_SECTION:waka-->
