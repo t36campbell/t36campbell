@@ -13,7 +13,7 @@
 * All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C107%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C107%20hrs%2015%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -35,5 +35,5 @@ ansible-playbooks        38 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 19/01/2023 21:10:29 UTC
+ Last Updated on 19/01/2023 21:12:26 UTC
 <!--END_SECTION:waka-->
