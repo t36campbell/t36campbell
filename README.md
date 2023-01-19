@@ -4,13 +4,13 @@
 <h1 align="center">Tyler S Campbell</h1>
 <h3 align="center">Full Stack Software Engineer</h3>
 
-* United States Air Force veteran with a B.Sc. in Information Technology specializing in Web Application Development. 
+* United States Air Force veteran working on a Master's in Computer Science
 
 * Quick study, eager to cultivate the skills needed to become an elite developer.
 
-* I’m currently working on [periodic-table-api](https://github.com/t36campbell/periodic-table-api)
+* I’m automating my life with **Ansible**
 
-* I’m experimenting with **Nest, Next and Nuxt**
+* I’m learning **Rust**
 
 * All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
 
@@ -37,5 +37,5 @@ ansible-playbooks        38 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 19/01/2023 03:44:43 UTC
+ Last Updated on 19/01/2023 03:42:55 UTC
 <!--END_SECTION:waka-->
