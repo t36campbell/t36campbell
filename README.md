@@ -8,9 +8,7 @@
 
 * Quick study, eager to cultivate the skills needed to become an elite developer.
 
-* I’m automating my life with **Ansible**
-
-* I’m learning **Rust**
+* Currently automating my life with **Ansible** and teaching myself **Rust**
 
 * All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
 
