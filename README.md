@@ -13,7 +13,7 @@
 * All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C188%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C185%20hrs%2029%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -35,5 +35,5 @@ cookiecutter-pss-aurora  40 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 21/02/2023 05:04:16 UTC
+ Last Updated on 21/02/2023 05:04:47 UTC
 <!--END_SECTION:waka-->
