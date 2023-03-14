@@ -13,7 +13,7 @@
 * All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C276%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C276%20hrs%205%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -34,5 +34,5 @@ td-ticket-history-report 2 hrs 47 mins       ██░░░░░░░░░�
 ```
 
 
- Last Updated on 14/03/2023 21:18:16 UTC
+ Last Updated on 14/03/2023 21:19:02 UTC
 <!--END_SECTION:waka-->
