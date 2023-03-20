@@ -13,7 +13,7 @@
 * All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C287%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C287%20hrs%2013%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -34,5 +34,5 @@ discover-bc-sw           35 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 20/03/2023 20:06:11 UTC
+ Last Updated on 20/03/2023 20:06:54 UTC
 <!--END_SECTION:waka-->
