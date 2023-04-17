@@ -13,7 +13,7 @@
 * All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C399%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C399%20hrs%205%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -34,5 +34,5 @@ unified-endpoint         13 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 17/04/2023 17:02:31 UTC
+ Last Updated on 17/04/2023 17:03:23 UTC
 <!--END_SECTION:waka-->
