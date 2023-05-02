@@ -13,7 +13,7 @@
 * All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C451%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C451%20hrs%2028%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -34,5 +34,5 @@ papertrail               2 hrs 40 mins       ██░░░░░░░░░�
 ```
 
 
- Last Updated on 02/05/2023 15:05:06 UTC
+ Last Updated on 02/05/2023 15:05:48 UTC
 <!--END_SECTION:waka-->
