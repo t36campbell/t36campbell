@@ -13,7 +13,7 @@
 * All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C530%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C530%20hrs%2033%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -34,5 +34,5 @@ bluecat-integration      40 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/05/2023 05:17:22 UTC
+ Last Updated on 28/05/2023 05:18:07 UTC
 <!--END_SECTION:waka-->
