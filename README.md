@@ -13,7 +13,7 @@
 * All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C581%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C581%20hrs%2015%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -34,5 +34,5 @@ arista-import-api        48 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 20/06/2023 19:56:42 UTC
+ Last Updated on 20/06/2023 19:57:55 UTC
 <!--END_SECTION:waka-->
