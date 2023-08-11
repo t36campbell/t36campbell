@@ -13,7 +13,7 @@
 * All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C688%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C688%20hrs%2017%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -34,5 +34,5 @@ sony-ip-object-report    1 hr 16 mins        ██░░░░░░░░░�
 ```
 
 
- Last Updated on 11/08/2023 02:14:26 UTC
+ Last Updated on 11/08/2023 02:15:26 UTC
 <!--END_SECTION:waka-->
