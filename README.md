@@ -13,7 +13,7 @@
 * All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C940%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C946%20hrs%2022%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -34,5 +34,5 @@ shrtlnx                  2 hrs 40 mins       ██░░░░░░░░░�
 ```
 
 
- Last Updated on 30/10/2023 10:10:33 UTC
+ Last Updated on 30/10/2023 10:11:43 UTC
 <!--END_SECTION:waka-->
