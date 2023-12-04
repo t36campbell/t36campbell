@@ -13,7 +13,7 @@
 * All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C011%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C011%20hrs%2018%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -34,5 +34,5 @@ huntington-ticket-history30 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 04/12/2023 19:54:39 UTC
+ Last Updated on 04/12/2023 19:55:31 UTC
 <!--END_SECTION:waka-->
