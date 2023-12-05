@@ -13,8 +13,6 @@
 * All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C009%20hrs%2014%20mins-blue)
 
-
- Last Updated on 05/12/2023 06:54:10 UTC
+ Last Updated on 05/12/2023 06:55:00 UTC
 <!--END_SECTION:waka-->
