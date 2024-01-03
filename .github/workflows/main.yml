@@ -1,9 +1,6 @@
 name: Waka Readme
 
 on:
-  push:
-    branches:
-      - master
   schedule:
     # Runs Daily at 10am GMT - 6am EST (github on GMT)
     - cron: '0 10 * * *'
