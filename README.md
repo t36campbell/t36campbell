@@ -1,3 +1,9 @@
+<style>
+img {
+    margin: 12px;
+}
+</style>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/t36campbell" target="blank"><img align="center" src="https://ik.imagekit.io/t36campbell/Portfolio/linkedin.png.original_m8bbGgPh6.png" alt="t36campbell" height="30" width="30" /></a>
 </p>
