@@ -11,36 +11,6 @@
 <h3 align="center">Full Stack Software Engineer</h3>
 <h3 align="center">United States Air Force veteran working toward a M.S. in Computer Science.</h3>
 
-
-<br>
-<br>
-
-- 🍞 **I love fermented foods, especially Sourdough & Vinegar**
-
-- 🌱 I’m currently improving my skills with **Rust** and automating with **Ansible** & **Playwright**
-
-- 🔭 I’m currently working on [apli](https://github.com/t36campbell/apli)
-
-- 👨‍💻 All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
-
-- 📄 Check out my [Resume](https://tylercampbell.space/Tyler%20Campbell%20Resume%20(2024).pdf)
-
-
-<!--START_SECTION:waka-->
-
-📊 **This Week I Spent My Time On** 
-```text
-💬 Programming Languages: 
-TypeScript               5 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   27.53 % 
-Prisma                   4 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
-Rust                     2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Python                   1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-SQL                      1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-```
-
-
- Last Updated on 25/04/2024 10:05:42 UTC
-<!--END_SECTION:waka-->
 <br>
 <br>
 
@@ -73,3 +43,33 @@ SQL                      1 hr 19 mins        ██░░░░░░░░░�
     <img src="https://playwright.dev/img/playwright-logo.svg" alt="jest" width="40" height="40" style="margin: 6%;" />
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" style="margin: 6%;" />
 </p>
+
+<br>
+<br>
+
+- 🍞 **I love fermented foods, especially Sourdough & Vinegar**
+
+- 🌱 I’m currently improving my skills with **Rust** and automating with **Ansible** & **Playwright**
+
+- 🔭 I’m currently working on [apli](https://github.com/t36campbell/apli)
+
+- 👨‍💻 All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
+
+- 📄 Check out my [Resume](https://tylercampbell.space/Tyler%20Campbell%20Resume%20(2024).pdf)
+
+
+<!--START_SECTION:waka-->
+
+📊 **This Week I Spent My Time On** 
+```text
+💬 Programming Languages: 
+TypeScript               5 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   27.53 % 
+Prisma                   4 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
+Rust                     2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Python                   1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+SQL                      1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+```
+
+
+ Last Updated on 25/04/2024 10:05:42 UTC
+<!--END_SECTION:waka-->
