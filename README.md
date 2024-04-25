@@ -5,7 +5,9 @@
 <h1 align="center">Hi 👋, I'm Tyler S. Campbell</h1>
 <h3 align="center">Full Stack Software Engineer</h3>
 <h3 align="center">United States Air Force veteran working toward a M.S. in Computer Science.</h3>
-
+[![wakatime](https://wakatime.com/badge/user/738aac7f-8868-4bc3-a1df-4c36703ee4b6.svg)](https://wakatime.com/@738aac7f-8868-4bc3-a1df-4c36703ee4b6)
+<br>
+<br>
 
 - 🍞 **I love fermented foods, especially Sourdough & Vinegar**
 
@@ -34,7 +36,8 @@ SQL                      1 hr 19 mins        ██░░░░░░░░░�
 
  Last Updated on 25/04/2024 10:05:42 UTC
 <!--END_SECTION:waka-->
-
+<br>
+<br>
 
 <h6 align="center">Tools I reach for</h6>
 <p align="center">
