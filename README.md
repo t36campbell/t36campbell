@@ -50,8 +50,9 @@
 
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C360%20hrs%2031%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
 ```text
 💬 Programming Languages: 
 TypeScript               5 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   27.53 % 
