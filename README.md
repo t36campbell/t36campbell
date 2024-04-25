@@ -18,7 +18,7 @@
 - 📄 Check out my [Resume](https://tylercampbell.space/Tyler%20Campbell%20Resume%20(2024).pdf)
 
 
-<h6 align="center">Tools I reach for:</h3>
+<h6 align="center">Tools I reach for</h6>
 <p align="center">
     <img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" alt="rust" width="40" height="40" style="margin: 12px;" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin: 12px;" />
