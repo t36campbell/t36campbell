@@ -18,6 +18,24 @@
 - 📄 Check out my [Resume](https://tylercampbell.space/Tyler%20Campbell%20Resume%20(2024).pdf)
 
 
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C360%20hrs%2031%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+```text
+💬 Programming Languages: 
+TypeScript               5 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   27.53 % 
+Prisma                   4 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
+Rust                     2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Python                   1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+SQL                      1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+```
+
+
+ Last Updated on 25/04/2024 10:05:42 UTC
+<!--END_SECTION:waka-->
+
+
 <h6 align="center">Tools I reach for</h6>
 <p align="center">
     <img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" alt="rust" width="40" height="40" style="margin: 6%;" />
@@ -47,21 +65,3 @@
     <img src="https://playwright.dev/img/playwright-logo.svg" alt="jest" width="40" height="40" style="margin: 6%;" />
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" style="margin: 6%;" />
 </p>
-
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C360%20hrs%2031%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-```text
-💬 Programming Languages: 
-TypeScript               5 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   27.53 % 
-Prisma                   4 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
-Rust                     2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Python                   1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-SQL                      1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-```
-
-
- Last Updated on 25/04/2024 10:05:42 UTC
-<!--END_SECTION:waka-->
