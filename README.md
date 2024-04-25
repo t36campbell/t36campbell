@@ -10,8 +10,6 @@
 <h1 align="center">Hi 👋, I'm Tyler S. Campbell</h1>
 <h3 align="center">Full Stack Software Engineer</h3>
 <h3 align="center">United States Air Force veteran working toward a M.S. in Computer Science.</h3>
-
-<br>
 <br>
 
 <h6 align="center">Tools I reach for</h6>
