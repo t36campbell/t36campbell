@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Tyler S. Campbell</h1>
 <h3 align="center">Full Stack Software Engineer</h3>
 <h3 align="center">United States Air Force veteran working toward a M.S. in Computer Science.</h3>
-<p align="center">![Code Time](http://img.shields.io/badge/Code%20Time-3%2C360%20hrs%2031%20mins-blue)</p>
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C360%20hrs%2031%20mins-blue)
 
 
 - 🍞 **I love fermented foods, especially Sourdough & Vinegar**
