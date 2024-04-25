@@ -4,7 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Tyler S. Campbell</h1>
 <div align="center">
-  <a href="">![wakatime](https://wakatime.com/badge/user/738aac7f-8868-4bc3-a1df-4c36703ee4b6.svg)</a>
+  
+  ![wakatime](https://wakatime.com/badge/user/738aac7f-8868-4bc3-a1df-4c36703ee4b6.svg)
+  
 </div>
 
 <h3 align="center">Full Stack Software Engineer</h3>
