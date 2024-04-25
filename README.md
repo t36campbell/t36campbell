@@ -1,14 +1,13 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/t36campbell" target="blank"><img align="center" src="https://ik.imagekit.io/t36campbell/Portfolio/linkedin.png.original_m8bbGgPh6.png" alt="t36campbell" height="30" width="30" /></a>
 </p>
-
-<h1 align="center">Hi 👋, I'm Tyler S. Campbell</h1>
 <div align="center">
   
   ![wakatime](https://wakatime.com/badge/user/738aac7f-8868-4bc3-a1df-4c36703ee4b6.svg)
   
 </div>
 
+<h1 align="center">Hi 👋, I'm Tyler S. Campbell</h1>
 <h3 align="center">Full Stack Software Engineer</h3>
 <h3 align="center">United States Air Force veteran working toward a M.S. in Computer Science.</h3>
 
