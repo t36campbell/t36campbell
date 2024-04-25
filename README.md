@@ -5,10 +5,8 @@
 <h1 align="center">Hi 👋, I'm Tyler S. Campbell</h1>
 <h3 align="center">Full Stack Software Engineer</h3>
 <h3 align="center">United States Air Force veteran working toward a M.S. in Computer Science.</h3>
-<br>
-<span align="center">
+
 ![wakatime](https://wakatime.com/badge/user/738aac7f-8868-4bc3-a1df-4c36703ee4b6.svg)
-</span>
 <br>
 <br>
 
