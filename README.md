@@ -19,13 +19,9 @@
 <br>
 
 - 🍞 I love fermented foods, especially Sourdough & Vinegar
-
 - 🌱 I’m currently improving my skills with **Rust** and automating with **Ansible** & **Playwright**
-
-- 🔭 I’m currently working on [apli](https://github.com/t36campbell/apli)
-
 - 👨‍💻 All of my projects are available at [https://tylercampbell.space/](https://tylercampbell.space/)
-
+- 🔭 I’m currently working on [apli](https://github.com/t36campbell/apli)
 - 📄 Check out my [Resume](https://tylercampbell.space/Tyler%20Campbell%20Resume%20(2024).pdf)
 
 
