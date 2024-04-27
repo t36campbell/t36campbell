@@ -3,9 +3,9 @@
 </p>
 <p align="center">
     <img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" alt="rust" width="40" height="40" style="margin: 6%;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin: 6%;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin: 6%;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin: 6%;" />
+    <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="40" height="40" style="margin: 6%;" />
+    <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40" style="margin: 6%;" />
+    <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="java" width="40" height="40" style="margin: 6%;" />
 </p>
 <div align="center">
   
@@ -18,7 +18,7 @@
 <h3 align="center">United States Air Force veteran working toward a M.S. in Computer Science.</h3>
 <br>
 
-- 🍞 **I love fermented foods, especially Sourdough & Vinegar**
+- 🍞 I love fermented foods, especially Sourdough & Vinegar
 
 - 🌱 I’m currently improving my skills with **Rust** and automating with **Ansible** & **Playwright**
 
