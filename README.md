@@ -5,7 +5,6 @@
     <img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" alt="rust" width="40" height="40" style="margin: 6%;" />
     <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="40" height="40" style="margin: 6%;" />
     <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40" style="margin: 6%;" />
-    <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="java" width="40" height="40" style="margin: 6%;" />
 </p>
 <div align="center">
   
