@@ -29,10 +29,9 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 mins              ███████████████████░░░░░░   76.09 % 
-JSON                     2 mins              ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 10/08/2024 10:05:49 UTC
+ Last Updated on 11/08/2024 10:05:35 UTC
 <!--END_SECTION:waka-->
