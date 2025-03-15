@@ -29,10 +29,9 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               10 mins             ████████████████████████░   97.91 % 
-Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 14/03/2025 10:07:03 UTC
+ Last Updated on 15/03/2025 10:05:58 UTC
 <!--END_SECTION:waka-->
