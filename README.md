@@ -16,9 +16,6 @@
 <h3 align="center">Full Stack Software Engineer</h3>
 <h3 align="center">United States Air Force veteran with a M.S. in Computer Science.</h3>
 <br>
-- 🌱 I’m currently improving my skills with **Rust** and automating with **Ansible** & **Playwright**
-- 📄 Check out my [Resume](https://tylercampbell.space/Tyler%20Campbell%20Resume%20(2025).pdf)
-
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
