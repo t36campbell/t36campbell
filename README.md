@@ -22,13 +22,13 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     7 hrs 45 mins       ███████████░░░░░░░░░░░░░░   44.22 % 
-Markdown                 3 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
-Go                       1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-TypeScript               1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-YAML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Rust                     7 hrs 45 mins       ██████████████░░░░░░░░░░░   56.74 % 
+Markdown                 3 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+Go                       1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 ```
 
 
- Last Updated on 17/03/2026 10:21:59 UTC
+ Last Updated on 18/03/2026 10:24:19 UTC
 <!--END_SECTION:waka-->
