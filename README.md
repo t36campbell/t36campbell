@@ -22,13 +22,13 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     4 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   30.88 % 
-Markdown                 4 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-Python                   2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-VB.NET                   1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Text                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Rust                     4 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   37.49 % 
+Markdown                 3 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   33.61 % 
+VB.NET                   1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+TypeScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 ```
 
 
- Last Updated on 08/04/2026 10:28:06 UTC
+ Last Updated on 09/04/2026 10:30:55 UTC
 <!--END_SECTION:waka-->
