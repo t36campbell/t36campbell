@@ -7,7 +7,7 @@
 </p>
 <br>
 <div align="center">
-  <img src="https://wakatime.com/badge/user/738aac7f-8868-4bc3-a1df-4c36703ee4b6.svg" width="40">
+  <img src="https://wakatime.com/badge/user/738aac7f-8868-4bc3-a1df-4c36703ee4b6.svg" width="120">
 </div>
 <table align="center" style="border: none;"><tr>
   <td align="center"><img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" alt="rust" width="40" height="40" /></td>
