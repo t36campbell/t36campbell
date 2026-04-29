@@ -3,7 +3,7 @@
 <h3 align="center">United States Air Force veteran with a M.S. in Computer Science.</h3>
 <br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/t36campbell" target="blank"><img align="center" src="https://ik.imagekit.io/t36campbell/Portfolio/linkedin.png.original_m8bbGgPh6.png" alt="t36campbell" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/t36campbell" target="blank"><img src="https://ik.imagekit.io/t36campbell/Portfolio/linkedin.png.original_m8bbGgPh6.png" alt="t36campbell" height="30" width="30" /></a>
 </p>
 <br>
 <p align="center">
