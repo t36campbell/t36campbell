@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/t36campbell" target="blank"><img src="https://ik.imagekit.io/t36campbell/Portfolio/linkedin.png.original_m8bbGgPh6.png" alt="LinkedIn" height="30" width="30" /></a>
 </p>
-<br>
 <div align="center">
   <img src="https://wakatime.com/badge/user/738aac7f-8868-4bc3-a1df-4c36703ee4b6.svg" width="180">
 </div>
