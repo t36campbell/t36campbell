@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Tyler S. Campbell 👋</h1>
-<h3 align="center">Principal Full Stack Software Engineer | M.Sc. in Computer Science | TypeScript, Python, Rust | USAF Vet</h3>
+<h2 align="center">Principal Full Stack Software Engineer | M.Sc. in Computer Science</h3>
+<h3 align="center">TypeScript, Python, Rust | USAF Vet</h3>
 <table align="center" style="border: none;" border="0"><tr>
   <td align="center"><a href="https://www.linkedin.com/in/t36campbell" target="blank"><img src="https://ik.imagekit.io/t36campbell/Portfolio/linkedin.png.original_m8bbGgPh6.png" alt="LinkedIn" height="48" width="48" /></a></td>
   <td align="center"><img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" alt="rust" width="48" height="48" /></td>
