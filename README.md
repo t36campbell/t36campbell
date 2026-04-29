@@ -9,7 +9,6 @@
   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="40" height="40" /></td>
   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40" /></td>
 </tr></table>
-<br>
 <h1 align="center">Hi, I'm Tyler S. Campbell 👋</h1>
 <h3 align="center">Principal Full Stack Software Engineer | M.Sc. in Computer Science | TypeScript, Python, Rust | USAF Vet</h3>
 
