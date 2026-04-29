@@ -2,7 +2,7 @@
 <h3 align="center">Principal Full Stack Software Engineer | M.Sc. in Computer Science | TypeScript, Python, Rust | USAF Vet</h3>
 
 <div align="center">
-  <img src="https://wakatime.com/badge/user/738aac7f-8868-4bc3-a1df-4c36703ee4b6.svg" width="360">
+  <img src="https://wakatime.com/badge/user/738aac7f-8868-4bc3-a1df-4c36703ee4b6.svg" width="240">
 </div>
 
 <table align="center" style="border: none;" border="0"><tr>
