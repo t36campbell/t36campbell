@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/t36campbell" target="blank"><img src="https://ik.imagekit.io/t36campbell/Portfolio/linkedin.png.original_m8bbGgPh6.png" alt="LinkedIn" height="30" width="30" /></a>
 </p>
-<br>
+![wakatime](https://wakatime.com/badge/user/738aac7f-8868-4bc3-a1df-4c36703ee4b6.svg)
 <table align="center"><tr>
   <td align="center"><img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" alt="rust" width="40" height="40" /></td>
   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="40" height="40" /></td>
@@ -14,7 +14,6 @@
 <br>
 <div align="center">
 
-![wakatime](https://wakatime.com/badge/user/738aac7f-8868-4bc3-a1df-4c36703ee4b6.svg)
 
 </div>
 
