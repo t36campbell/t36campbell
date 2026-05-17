@@ -17,13 +17,13 @@
 
 ```text
 💬 Programming Languages: 
-Go                       4 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-Markdown                 3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-YAML                     2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Other                    2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-JavaScript               2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Go                       4 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+Markdown                 3 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+JavaScript               2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Other                    1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+YAML                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
 ```
 
 
- Last Updated on 16/05/2026 10:32:05 UTC
+ Last Updated on 17/05/2026 10:34:23 UTC
 <!--END_SECTION:waka-->
