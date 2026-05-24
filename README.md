@@ -13,6 +13,17 @@
 ---
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 23/05/2026 10:35:19 UTC
+```text
+💬 Programming Languages: 
+JSON                     1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+TypeScript               1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+Python                   54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Text                     54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Markdown                 53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+```
+
+
+ Last Updated on 24/05/2026 10:37:52 UTC
 <!--END_SECTION:waka-->
