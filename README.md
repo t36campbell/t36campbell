@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tyler S. Campbell <span><a href="https://www.linkedin.com/in/t36campbell" target="blank"><img src="https://ik.imagekit.io/t36campbell/Portfolio/linkedin.png.original_m8bbGgPh6.png" alt="LinkedIn" height="36" /></a></span></h1>
+<h1 align="center">Hi, I'm Tyler S. Campbell <span><a href="https://www.linkedin.com/in/t36campbell" target="blank"><img src="https://ik.imagekit.io/t36campbell/Portfolio/linkedin.png.original_m8bbGgPh6.png" alt="LinkedIn" height="18" /></a></span></h1>
 <h3 align="center">Principal Full Stack Software Engineer <span style="all: unset;">|</span> M.Sc. in Computer Science <span sstyle="all: unset;">|</span> USAF Vet</h3>
 <h3 align="center">Rust, TypeScript, Go, Python</h3>
 <table align="center" style="border: none;" border="0"><tr>
