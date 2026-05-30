@@ -13,6 +13,17 @@
 ---
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 29/05/2026 11:12:10 UTC
+```text
+💬 Programming Languages: 
+Rust                     4 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   35.25 % 
+Bash                     2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
+Markdown                 1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+YAML                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+JSON                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+```
+
+
+ Last Updated on 30/05/2026 10:38:26 UTC
 <!--END_SECTION:waka-->
