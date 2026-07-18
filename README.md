@@ -17,13 +17,13 @@
 
 ```text
 💬 Programming Languages: 
-Python                   9 hrs 43 mins       ██████████████░░░░░░░░░░░   56.41 % 
-YAML                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-Other                    1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-JSON                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Python                   8 hrs 28 mins       ████████████░░░░░░░░░░░░░   48.04 % 
+TypeScript               2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+JSON                     1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+YAML                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Other                    1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
 ```
 
 
- Last Updated on 17/07/2026 10:36:19 UTC
+ Last Updated on 18/07/2026 10:32:16 UTC
 <!--END_SECTION:waka-->
