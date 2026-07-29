@@ -19,39 +19,13 @@
 
 ```text
 💬 Programming Languages: 
-Python                   20 hrs 6 mins       ███████████████████░░░░░░   74.10 % 
-Markdown                 1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-Bash                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-CSV                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-Rust                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 52 mins (6.93%)
-
-✍️ 28 lines written by AI, 1,859 lines written by hand (1.48% AI-written)
-
-🔤 48,667,298 Input Tokens, 72,207 Output Tokens
-
-💵 $90.33 Estimated AI Cost This Week
-
-🧠 10 AI Sessions, 20 AI Prompts
-
-Sonnet                   30 lines            ███████████████████████░░   93.75 % 
-GPT                      2 lines             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.48% of written lines came from AI
-📄 Detailed Prompter — average 518 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 99.29% of changed lines were hand-edited
+Python                   20 hrs 20 mins      ████████████████████░░░░░   78.77 % 
+CSV                      1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+YAML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Rust                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 ```
 
 
- Last Updated on 28/07/2026 10:52:21 UTC
+ Last Updated on 29/07/2026 10:55:28 UTC
 <!--END_SECTION:waka-->
