@@ -26,4 +26,5 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_PROJECTS: "False"
           SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_AI_CODE_TIME: "False"
           SHOW_AI_CODING: "False"
