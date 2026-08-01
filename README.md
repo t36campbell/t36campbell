@@ -17,13 +17,13 @@
 
 ```text
 💬 Programming Languages: 
-Python                   17 hrs 48 mins      █████████████████░░░░░░░░   68.05 % 
-Rust                     2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-CSV                      1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-JSON                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-Markdown                 1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Python                   12 hrs 1 min        ██████████████░░░░░░░░░░░   55.07 % 
+Rust                     2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+CSV                      1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+JSON                     1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Markdown                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 ```
 
 
- Last Updated on 31/07/2026 10:57:19 UTC
+ Last Updated on 01/08/2026 10:34:25 UTC
 <!--END_SECTION:waka-->
