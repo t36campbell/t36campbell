@@ -17,13 +17,13 @@
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   32.80 % 
-TypeScript               1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
-Markdown                 1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Go                       1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Other                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+TypeScript               1 hr 46 mins        ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
+Python                   1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Go                       1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Markdown                 57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Other                    54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
 ```
 
 
- Last Updated on 07/09/2026 10:17:02 UTC
+ Last Updated on 08/09/2026 10:16:53 UTC
 <!--END_SECTION:waka-->
