@@ -17,9 +17,13 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       23 mins             ████████░░░░░░░░░░░░░░░░░   31.49 % 
+Python                   22 mins             ████████░░░░░░░░░░░░░░░░░   30.40 % 
+CSV                      14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
 ```
 
 
- Last Updated on 12/10/2026 10:21:46 UTC
+ Last Updated on 13/10/2026 10:18:32 UTC
 <!--END_SECTION:waka-->
