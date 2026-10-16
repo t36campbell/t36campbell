@@ -13,6 +13,17 @@
 ---
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 15/10/2026 10:15:50 UTC
+```text
+💬 Programming Languages: 
+Markdown                 32 mins             ███████░░░░░░░░░░░░░░░░░░   28.06 % 
+CSV                      25 mins             ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
+Go                       23 mins             █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+Python                   22 mins             █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+```
+
+
+ Last Updated on 16/10/2026 10:15:43 UTC
 <!--END_SECTION:waka-->
