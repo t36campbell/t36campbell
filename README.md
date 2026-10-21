@@ -17,13 +17,9 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 26 mins             ████████████████░░░░░░░░░   65.00 % 
-CSV                      11 mins             ███████░░░░░░░░░░░░░░░░░░   28.68 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 20/10/2026 10:14:18 UTC
+ Last Updated on 21/10/2026 10:15:48 UTC
 <!--END_SECTION:waka-->
